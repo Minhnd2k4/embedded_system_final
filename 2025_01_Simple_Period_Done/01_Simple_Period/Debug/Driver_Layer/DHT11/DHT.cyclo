@@ -1,0 +1,8 @@
+../Driver_Layer/DHT11/DHT.c:8:6:DHT11_Init	1
+../Driver_Layer/DHT11/DHT.c:13:13:delay_us	2
+../Driver_Layer/DHT11/DHT.c:18:13:Set_Pin_Output	1
+../Driver_Layer/DHT11/DHT.c:26:13:Set_Pin_Input	1
+../Driver_Layer/DHT11/DHT.c:34:6:DHT11_Start	1
+../Driver_Layer/DHT11/DHT.c:43:9:DHT11_Check_Response	4
+../Driver_Layer/DHT11/DHT.c:54:9:DHT11_Read_Byte	5
+../Driver_Layer/DHT11/DHT.c:69:6:DHT11_Read	3
