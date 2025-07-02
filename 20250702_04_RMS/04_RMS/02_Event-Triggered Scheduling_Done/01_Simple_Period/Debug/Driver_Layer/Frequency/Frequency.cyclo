@@ -1,0 +1,6 @@
+../Driver_Layer/Frequency/Frequency.c:20:6:Frequency1_Init	1
+../Driver_Layer/Frequency/Frequency.c:26:6:Frequency2_Init	1
+../Driver_Layer/Frequency/Frequency.c:32:10:Frequency1_Read	1
+../Driver_Layer/Frequency/Frequency.c:37:10:Frequency2_Read	1
+../Driver_Layer/Frequency/Frequency.c:42:6:Frequency_UpdateOverflow	3
+../Driver_Layer/Frequency/Frequency.c:50:6:HAL_TIM_IC_CaptureCallback	11
